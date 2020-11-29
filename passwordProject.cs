@@ -20,11 +20,11 @@ namespace Deliverable2
            
           
 
-            if (userPassword.Any(char.IsUpper)) &&
+            if (userPassword.Any(char.IsUpper) &&
 
                 (userPassword.Any(char.IsLower)) &&
 
-                (userPassword.Contains("!")) &&
+                (userPassword.Contains("!") &&
 
                 (userPassword.Length>=7)) &&
 
