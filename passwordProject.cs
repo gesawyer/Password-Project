@@ -28,7 +28,7 @@ namespace Deliverable2
 
                 (userPassword.Length>=7)) &&
 
-                (userPassword.Length<=12))
+                (userPassword.Length<=12)
 
                 {
 
