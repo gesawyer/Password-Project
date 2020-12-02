@@ -1,0 +1,6 @@
+/Users/Grace/Desktop/probably trash/testtesttest/testtesttest/obj/Debug/testtesttest.csprojAssemblyReference.cache
+/Users/Grace/Desktop/probably trash/testtesttest/testtesttest/obj/Debug/testtesttest.csproj.CoreCompileInputs.cache
+/Users/Grace/Desktop/probably trash/testtesttest/testtesttest/bin/Debug/testtesttest.exe
+/Users/Grace/Desktop/probably trash/testtesttest/testtesttest/bin/Debug/testtesttest.pdb
+/Users/Grace/Desktop/probably trash/testtesttest/testtesttest/obj/Debug/testtesttest.exe
+/Users/Grace/Desktop/probably trash/testtesttest/testtesttest/obj/Debug/testtesttest.pdb
